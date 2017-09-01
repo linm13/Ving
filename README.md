@@ -8,10 +8,12 @@ Ving offers many functions for users, which can greatly reduce the threshould fo
 The operation of the software is very friendly and simple, you can operate it just like operating the windows OS.
 
 The interface for building circuit is as follow:
-![image](https://github.com/linm13/Ving-package-software-/blob/picture/interface.png)
+![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/interface1.png)
+![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/interface2.png)
 
 This is the interface for exhibiting the result:
-![image](https://github.com/linm13/Ving-package-software-/blob/picture/result.png)
+![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/result_display.png)
+![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/result_display2.png)
 
 This is the pie chart of the result:
-![image](https://github.com/linm13/Ving-package-software-/blob/picture/result2.png)
+![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/result_display3.png)
