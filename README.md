@@ -7,6 +7,8 @@ This software is a package program of the software GridLabd.
 Ving offers many functions for users, which can greatly reduce the threshould for users to do some simulations of power system.
 The operation of the software is very friendly and simple, you can operate it just like operating the windows OS.
 
+Users can drag the icon to the panel to build the case. Users can also zoom in or out the panel. It's a user-friendly GUI.
+
 The interface for building circuit is as follow:
 ![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/interface1.png)
 ![image](https://github.com/linm13/Ving-package-software-/blob/master/screenshot/interface2.png)
