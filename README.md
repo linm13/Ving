@@ -1,5 +1,7 @@
 
-# Ving-package-software-
+# Ving
+A front-end software of GridLab-D
+
 A project of software development with Java
 
 This is my first time to develop such a systematic and complex software and I cherish it very much.
