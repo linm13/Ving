@@ -1,5 +1,5 @@
 
-# Ving
+# Ving 7/2016
 A front-end software of GridLab-D
 
 A project of software development with Java
